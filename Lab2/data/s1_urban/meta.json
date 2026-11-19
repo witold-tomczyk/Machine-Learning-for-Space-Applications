@@ -1,0 +1,12 @@
+{
+  "item_id": "S1A_IW_GRDH_1SDV_20230830T044443_20230830T044508_050100_06075F",
+  "datetime": "2023-08-30T04:44:56.414495Z",
+  "center_lonlat": [
+    21.02,
+    52.23
+  ],
+  "polarisations": {
+    "vv": "s3://sentinel-s1-l1c/GRD/2023/8/30/IW/DV/S1A_IW_GRDH_1SDV_20230830T044443_20230830T044508_050100_06075F_2CB8/measurement/iw-vv.tiff",
+    "vh": "s3://sentinel-s1-l1c/GRD/2023/8/30/IW/DV/S1A_IW_GRDH_1SDV_20230830T044443_20230830T044508_050100_06075F_2CB8/measurement/iw-vh.tiff"
+  }
+}

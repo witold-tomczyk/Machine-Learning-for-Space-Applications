@@ -1,0 +1,15 @@
+{
+  "item_id": "S2A_34UDC_20230815_0_L2A",
+  "datetime": "2023-08-15T09:56:17.485000Z",
+  "cloud_cover": 0.001758,
+  "center_lonlat": [
+    21.02,
+    52.23
+  ],
+  "bands": {
+    "B02": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/34/U/DC/2023/8/S2A_34UDC_20230815_0_L2A/B02.tif",
+    "B03": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/34/U/DC/2023/8/S2A_34UDC_20230815_0_L2A/B03.tif",
+    "B04": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/34/U/DC/2023/8/S2A_34UDC_20230815_0_L2A/B04.tif",
+    "B08": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/34/U/DC/2023/8/S2A_34UDC_20230815_0_L2A/B08.tif"
+  }
+}
